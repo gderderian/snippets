@@ -2,11 +2,10 @@
 
 /**
 Plugin Name: Website Footer Replacement Plugin
-Plugin URI: http://crowncitynews.com
 Description: WordPress footer replacement
-Author: Grant Derderian for Crown City News
+Author: Grant Derderian
 Version: 1.0
-Author URI: http://crowncitynews.com
+Author URI: http://grantd.net
 **/
 
 function dashboard_footer () {
